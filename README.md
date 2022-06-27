@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+ola, eu me chamo leticia;
+atualmente estudo em CECMPS;
+atualmente estou aprendendo programação no SCRATCH e JAVASCRIPT
+instagram @lefernanda.s;
+tenho 14 anos, nasci dia 23/09/2007
 
 <!--
 **lerix05/lerix05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
